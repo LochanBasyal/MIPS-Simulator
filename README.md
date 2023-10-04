@@ -1,4 +1,14 @@
-# MIPS-Simulator
-The goal of this project is to understand how MIPS datapath is designed and performed. To achieve this, you will write a cycle-accurate instruction-level simulator that supports a subset of the MIPS ISA. This instruction-level simulator will model the behavior of each instruction and will allow the user to run MIPS programs and see their outputs.
+# MIPS Simulator
 
-Everything is explained under sim.c file
+The MIPS Simulator project aims to provide an in-depth understanding of the MIPS datapath architecture. It accomplishes this goal through the development of a cycle-accurate instruction-level simulator that supports a subset of the MIPS Instruction Set Architecture (ISA).
+
+## Key Objectives
+
+- Gain insights into the design and functioning of the MIPS datapath.
+- Develop a cycle-accurate simulator to model the behavior of MIPS instructions.
+- Enable users to run MIPS programs and observe their outputs efficiently.
+
+## Code Structure
+
+All project details and explanations can be found in the `sim.c` file.
+
